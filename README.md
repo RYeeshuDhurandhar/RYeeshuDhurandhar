@@ -1,6 +1,6 @@
 ## Hi there, 
-I am R Yeeshu Dhurandhar, a junior undergraduate student at [Indian Institute of Technology, Gandhinagar, Gujarat](http://iitgn.ac.in/).
-I am interested in Data Structure & Algorithms, and Machine Learning. I am currently exploring the tech domain and am open to learning new skills. 
+I am R Yeeshu Dhurandhar, a senior undergraduate student at [Indian Institute of Technology, Gandhinagar, Gujarat](http://iitgn.ac.in/).
+I am professionally interested in Machine Learning and Data Science. Wanna chat about these things, feel free to contact!
 
 **Contact**:
 
