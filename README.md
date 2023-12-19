@@ -1,6 +1,6 @@
 ## Hi there, 
 I am R Yeeshu Dhurandhar, a senior undergraduate student at [Indian Institute of Technology, Gandhinagar, Gujarat](http://iitgn.ac.in/).
-I am professionally interested in Machine Learning and Data Science. Wanna chat about these things, feel free to contact!
+My professional passion lies in Machine Learning and Data Science. If you're into these things or want to chat tech, hit me up!
 
 **Contact**:
 
