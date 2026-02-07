@@ -1,6 +1,6 @@
 ## Hi there,
 
-I am an MS student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), graduating in December 2027. I am building strength across both software systems and applied machine learning, with a focus on roles where scalable engineering meets ML in production.
+I am an MS student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), graduating in December 2027. I am building strength across both software systems and applied machine learning.
 
 Before CMU, I earned a B.Tech in Electrical Engineering from [Indian Institute of Technology, Gandhinagar, Gujarat](http://iitgn.ac.in/) (Class of 2024), along with dual minors in Computer Science and Engineering and Artificial Intelligence. I also worked as a Data Scientist at [SkanAI Labs Private Limited](http://Skan.ai) for approximately 1 year and 4 months, where I built transformer-based models to generate automation scores for business processes and worked on intent mining of email conversations using large language models.
 
